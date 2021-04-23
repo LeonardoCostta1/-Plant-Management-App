@@ -26,11 +26,12 @@ const styles = StyleSheet.create({
     alignItems: "center",
     borderRadius: 16,
     marginBottom: 30,
+    paddingHorizontal:10,
     height: 56,
-    width: 56,
+    width:'100%'
   },
   buttontext: {
     color: colors.white,
-    fontSize: 24,
+    fontSize: 18,
   },
 });
